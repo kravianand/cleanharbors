@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://github.com/kravianand/chesi-ecom-store
+    type: markup
+
+folders:
+  /products/: /products/default
