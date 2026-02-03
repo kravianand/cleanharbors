@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://github.com/kravianand/chesi-ecom-store
+    url: https://github.com/kravianand/cleanharbors
     type: markup
 
 folders:
