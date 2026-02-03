@@ -4,8 +4,15 @@
       "commerce-core-endpoint": "http://localhost/graphql",
       "commerce-endpoint": "http://localhost/graphql",
       "headers": {
-        "all": {},
-        "cs": {}
+        "all": {
+          "Store": "default"
+        },
+        "cs": {
+          "Magento-Store-Code": "default",
+          "Magento-Store-View-Code": "default",
+          "Magento-Website-Code": "base",
+          "Magento-Environment-Id": "local"
+        }
       },
       "commerce-assets-enabled": false,
       "analytics": {
